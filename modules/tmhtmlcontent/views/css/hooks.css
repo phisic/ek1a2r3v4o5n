@@ -1,0 +1,80 @@
+/* Home hooh CSS */
+.right-banner {
+	width:31%;
+	float:left;
+}
+#htmlcontent_home {
+	margin-bottom:20px;
+}	
+ul.htmlcontent-home li {
+	padding-bottom:10px;
+}
+
+li.htmlcontent-item {
+}
+
+li.htmlcontent-item a.item-link {
+}
+
+li.htmlcontent-item img.item-img {
+}
+
+li.htmlcontent-item h3.item-title {
+}
+
+li.htmlcontent-item div.item-html {
+}
+
+/* Top hooh CSS */
+#htmlcontent_top {
+}
+/*Frontend Styles*/
+#htmlcontent_top li {
+	box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	-ms-box-sizing:border-box;	
+}
+#htmlcontent_top li > div {
+	position:relative;	
+}
+#htmlcontent_top h2 {
+	position:absolute;
+	top:40%;
+	left:0;
+	width:100%;
+	text-align:center;
+	font-size:25px;
+	line-height:28px;
+	text-transform:uppercase;
+	margin:0 auto;
+}
+body.instant_search #htmlcontent_top { display:none;}
+@media (max-width: 768px) {
+	#htmlcontent_top h2 {font-size:20px;}
+}
+@media (max-width: 480px) {
+	#htmlcontent_top h2 {font-size:15px; top:28%;}
+}
+/* Left hooh CSS */
+#htmlcontent_left {
+}
+
+/* Right hooh CSS */
+#htmlcontent_right {
+}
+
+/* Footer hooh CSS */
+#htmlcontent_footer {
+	padding:11px 0 0 15px;
+	overflow:hidden;
+}
+#htmlcontent_footer h3 {
+	font-weight:normal;	
+	color:#333;
+	font-size:21px;
+	margin-bottom:4px;
+}
+#htmlcontent_footer p {
+	margin-bottom:2px;	
+}
