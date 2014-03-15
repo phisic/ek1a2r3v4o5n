@@ -1037,10 +1037,10 @@ SUBCATEGORIES
   display: block;
   position: absolute;
   left: -1px;
-  top: 80px;
+  top: 57px;
 }
 #header #header_right {
-  padding: 179px 0px 0px 0px;
+  padding: 127px 0px 0px 0px;
   z-index: 101;
   position: relative;
 }
@@ -1229,7 +1229,7 @@ SUBCATEGORIES
 .blockuserinfo {
   position: absolute;
   top: 74px;
-  right: 192px;
+  right: 57px;
   text-align: right;
 }
 .blockuserinfo span.login-button {
@@ -1243,14 +1243,14 @@ SUBCATEGORIES
 #header_user {
   position: absolute;
   right: 5px;
-  top: 74px;
+  top: 57px;
   z-index: 99;
 }
 
 #header_user #shopping_cart a {
   display: inline-block;
   overflow: hidden;
-  padding: 16px 17px 16px 17px;
+  padding: 9px 17px 9px 17px;
   color: #777777;
   font-weight: 400;
   font-size: 14px;
@@ -1346,7 +1346,7 @@ SUBCATEGORIES
 ************************************************************************************************ */
 #search_block_top {
   position: absolute;
-  top: 93px;
+  top: 57px;
   right: 450px;
   margin: 0px;
 }
@@ -1488,7 +1488,7 @@ h1, .column .block h4, .center_column .block h4, #layered_block_left h3 {
   line-height: 10px;
   font-weight: 400;
   font-family: "Roboto", sans-serif;
-  margin: 0 0 15px 0;
+  margin: 0 0 6px 0;
   position: relative;
   text-transform: capitalize;
 }
