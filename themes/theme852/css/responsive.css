@@ -13,7 +13,7 @@
     top: 70px;
   }
   #header #header_right {
-    padding-top: 250px;
+    padding-top: 220px;
     margin: 0 5px;
   }
 
@@ -63,7 +63,7 @@
   **************************************************************************************************/
   #search_block_top {
     right: 0px;
-    top: 205px;
+    top: 175px;
     width: 100%;
   }
 
@@ -120,7 +120,7 @@
   ************************************************************************************************ */
   .blockuserinfo {
     right: 0;
-    top: 160px;
+    top: 130px;
   }
   .blockuserinfo span.login-button {
     display: inline-block;
@@ -620,14 +620,14 @@
     padding-bottom: 20px;
   }
   #header #header_logo {
-    top: 84px;
+    top: 57px;
   }
   #header #header_logo img {
     width: 180px;
   }
 
   .blockuserinfo {
-    top: 117px;
+    top: 92px;
   }
   .blockuserinfo span.login-button {
     display: inline-block;
@@ -636,7 +636,7 @@
 
   #search_block_top {
     right: 192px;
-    top: 74px;
+    top: 57px;
   }
   #search_block_top p {
     width: 180px;
