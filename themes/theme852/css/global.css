@@ -1228,8 +1228,8 @@ SUBCATEGORIES
 ************************************************************************************************ */
 .blockuserinfo {
   position: absolute;
-  top: 74px;
-  right: 57px;
+  top: 57px;
+  right: 192px;
   text-align: right;
 }
 .blockuserinfo span.login-button {
