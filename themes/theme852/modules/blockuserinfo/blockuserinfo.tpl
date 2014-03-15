@@ -25,13 +25,15 @@
 
 <!-- Block user information module HEADER -->
 <section class="blockuserinfo header-box">
-	<span class="login-button">
+
     {if $logged}
+	<span class="login-button">
         <a href="{$link->getPageLink('index', true, NULL, "mylogout")|escape:'html'}" title="{l s='Log out' mod='blockuserinfo'}" class="logout btn btn-default button btn_add_cart">{l s='Log out' mod='blockuserinfo'}</a>
+	 </span>
     {else}
 
     {/if}
-    </span>
+
     <a href="{$link->getPageLink('my-account', true)|escape:'html'}" title="{l s='View my customer account' mod='blockuserinfo'}" class="btn btn-default button" rel="nofollow">{l s='Your Account' mod='blockuserinfo'}</a>
 </section>
 
