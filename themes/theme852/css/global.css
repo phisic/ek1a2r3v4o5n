@@ -1228,7 +1228,7 @@ SUBCATEGORIES
 ************************************************************************************************ */
 .blockuserinfo {
   position: absolute;
-  top: 57px;
+  top: 44px;
   right: 192px;
   text-align: right;
 }
@@ -1268,7 +1268,7 @@ SUBCATEGORIES
 }
 #header_user #shopping_cart a:after {
   position: absolute;
-  height: 76px;
+  height: 62px;
   width: 100%;
   content: ".";
   text-indent: -5000px;
